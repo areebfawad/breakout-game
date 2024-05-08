@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+
+#board {
+  background-color: black;opacity: 0.7; height: 100%; width: 40%;
+  border-top: 5px solid skyblue;
+  border-left: 5px solid skyblue;
+  border-right: 5px solid skyblue; border-bottom: 5px solid skyblue;
+}  .live-bg video{ position: absolute; right: 0; bottom: 0; z-index: -1; }  @media(min-aspect-ratio:16/9){.live-bg  video {width: 150%; height: auto; }} 
